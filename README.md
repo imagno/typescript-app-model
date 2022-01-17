@@ -1,6 +1,6 @@
 # Iniciando com TypeScript
 
-Estudando typescript utilizando guia da Rocketseat disponibilizado no [canal do YouTube](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg).
+Estudando typescript utilizando o guia da Rocketseat disponibilizado no [canal deles no YouTube](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg).
 
 [![](rocketseat.png)](https://app.rocketseat.com.br/)
 ## TypeScript, o início, de forma prática | [MasterClass #07](https://www.youtube.com/watch?v=0mYq5LrQN1s)
@@ -16,7 +16,7 @@ Abaixo iniciarei uma série de anotações que ficará registrado como um guia p
 1. yarn init -y
 2. yarn add -D typescript
 
-### Configurando do Backend
+### Configurando o Backend
 
 1. yarn add @types/express -D
 
