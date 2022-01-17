@@ -7,7 +7,7 @@ Estudando typescript utilizando guia da Rocketseat disponibilizado no [canal do 
 
 Abaixo iniciarei uma série de anotações que ficará registrado como um guia pessoal de estudo baseado nas explicações de Diego Fernandes, CTO e Instrutor na Rocketseat.
 
-[![](https://avatars.githubusercontent.com/u/2254731?v=4)]()
+[![](https://avatars.githubusercontent.com/u/2254731?v=4)](https://github.com/diego3g)
 
 [_**GitHub de Diego Fernandes**_](https://github.com/diego3g)
 
@@ -49,3 +49,19 @@ Abaixo iniciarei uma série de anotações que ficará registrado como um guia p
     scripts são colocados no arquivo package.json.
 
     **yarn dev:server** executa o script.
+
+### Configurando o frontend
+
+1. yarn create react-app frontend --template=typescript
+
+2. yarn add cors
+    
+    Para permitir quais urls acessarão o backend.
+
+3. yarn add @types/cors -D
+
+    Para instanciar a tipagem do cors ao projeto.
+
+4. yarn add axios
+    
+    Biblioteca utilizada para fazer chamadas à API.
